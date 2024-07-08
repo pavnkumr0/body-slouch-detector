@@ -17,9 +17,16 @@ This project proposes the development of a wearable body slouch detector. This d
 4. **Buzzer**
 5. **LED x5**
 
+## Port Connections
+
+
+
+
+
+<h2 align='center'> Images </h2> 
 <p align='center'>
-<img src='./imgs/img1.png' alt='images' width = 35% height=10%>
-<img src='./imgs/img2.png' alt='images' width = 40% height>
-<img src='./imgs/img3.png' alt='images' width = 39%>
+<img src='./imgs/img1.png' alt='images' width = 30% >
+<img src='./imgs/img2.png' alt='images' width = 30% >
+<img src='./imgs/img3.png' alt='images' width = 30% >
 </p>
 
