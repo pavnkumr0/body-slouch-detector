@@ -6,7 +6,7 @@ BODY SLOUCH DETECTOR
 
 
 <p align="left">
-<img align="right" alt="Coding" width="200" src="./imgs/posture.jpg">
+<img align="right" alt="Coding" width="150" src="./imgs/posture.jpg">
 This project proposes the development of a wearable body slouch detector. This device would continuously monitor posture, providing real-time feedback to users when their alignment deviates from a healthy position. Ultimately, this project aims to promote better posture awareness and encourage positive behavior change, leading to improved health and well-being for individuals.
 </p>
 <h2 align="left">
@@ -49,4 +49,7 @@ skills required
 <h2 align = 'left'>
  	authors
 </h2>
-<a href="https://github.com/pavnkumr0/" > Pavan Kumar G
+<p>
+<p> medha </p>
+<a href="https://github.com/pavnkumr0/" > Pavan Kumar G 
+</p>
