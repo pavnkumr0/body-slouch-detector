@@ -18,8 +18,8 @@ This project proposes the development of a wearable body slouch detector. This d
 5. **LED x5**
 
 <p align='center'>
-<img src='./imgs/img1.png' alt='images'>
-<img src='./imgs/img2.png' alt='images'>
-<img src='./imgs/img3.png' alt='images'>
+<img src='./imgs/img1.png' alt='images' width = 35% height=10%>
+<img src='./imgs/img2.png' alt='images' width = 40% height>
+<img src='./imgs/img3.png' alt='images' width = 39%>
 </p>
 
