@@ -50,6 +50,6 @@ skills required
  	authors
 </h2>
 <p>
-<p> medha </p>
-<a href="https://github.com/pavnkumr0/" > Pavan Kumar G 
+<p> <a href="https://github.com/m-medha" > medha </p>
+<p> <a href="https://github.com/pavnkumr0/" > Pavan Kumar G </p>
 </p>
